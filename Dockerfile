@@ -1,5 +1,5 @@
 FROM docker:git
-MAINTAINER Alexander Herold;
+MAINTAINER ACCENON®;
 
 # Install prerequisites
 RUN apk --update add curl
